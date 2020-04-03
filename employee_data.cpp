@@ -4,12 +4,6 @@
 #include <cstring>
 #include <iomanip>
 
-/*
-C++ program that stores the information on several
-part-time and full-time employees within classes,
-and displays a summary report
-*/
-
 using namespace std;
 
 const float tax = 20;   //tax rate
