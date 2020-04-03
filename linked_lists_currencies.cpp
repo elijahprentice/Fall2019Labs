@@ -2,13 +2,6 @@
 #include <string>
 using namespace std;
 
-/*
-C++ program that demonstrates basic knowledge of
-linked lists and two-dimensional arrays by storing
-the conversion rates between different currencies,
-organized by the local currencies entered by the user
-*/
-
 struct CurrencyPairNode{
   string lcurrName;
   string fcurrName;
